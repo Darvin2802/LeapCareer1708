@@ -37,7 +37,7 @@ const Login: React.FC = () => {
         <div className="text-center">
           <Link to="/" className="flex items-center justify-center space-x-2 mb-8">
             <GraduationCap className="h-10 w-10 text-blue-600" />
-            <span className="text-2xl font-bold text-gray-900">Leap Career</span>
+            <span className="text-2xl font-bold text-gray-900">CareerBridge</span>
           </Link>
           <h2 className="text-3xl font-bold text-gray-900">Welcome back</h2>
           <p className="mt-2 text-gray-600">Sign in to your account</p>
