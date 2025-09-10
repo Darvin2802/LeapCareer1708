@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <GraduationCap className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">Leap Career</span>
+              <span className="text-xl font-bold">CareerBridge</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Empowering Indian students in the US with career opportunities, mentorship, 
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2024 Leap Career. All rights reserved. | 
+            © 2024 CareerBridge. All rights reserved. | 
             <span className="text-sm text-gray-400 ml-2">
               Information provided is for guidance only and does not constitute legal advice.
             </span>
